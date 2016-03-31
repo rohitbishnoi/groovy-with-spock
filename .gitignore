@@ -23,3 +23,5 @@ simple-interact-core.ipr
 id_file
 *~
 /.slcache/
+/build/
+/.gradle/
